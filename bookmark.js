@@ -8,7 +8,6 @@ javascript: (function() {
   }
 
   function charger(vid) {
-    console.log('charger : ', vid);
     $('.playerVideo').html('<div style="outline: 10px dotted yellow;"><iframe webkitallowfullscreen mozallowfullscreen allowfullscreen width="640" height="360" frameborder="0" scrolling="no" src="http://player.canalplus.fr/embed/?param=cplus&vid=' + vid + '"></iframe></div').css({
       'box-shadow': '0 0 10px yellow',
       'position': 'relative'
