@@ -1,4 +1,4 @@
-# canal-plus-sans-pub
+# Canal Plus sans pub
 
 Ce script permet de supprimer les publicités au lancement du lecteur vidéo de canalplus.fr. 
 Il faut installer ce script dans la barre de raccourcis de votre navigateur.
